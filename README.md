@@ -1,1 +1,2 @@
-# Rock-Paper-Scissors
+# Rock Paper Scissors
+This is a Rock Paper Scissors game made using Python, OpenCV-Python and Mediapipe. This program works by using Mediapipe, a deep learning model, to detect the hand landmarks of your fingers and then by procesing that, it verifies the positions of your fingers relative to eachother and therefore, it predicts your move in a few milliseconds. On the right-hand side of the window is the "AI" player which will show its move in real time based onn your move. This AI can never be beaten as long as your intented move is the same as what the computer recieved. 
